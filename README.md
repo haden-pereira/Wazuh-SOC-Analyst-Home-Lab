@@ -1,4 +1,4 @@
-# Wazuh SOC Analyst Home Lab
+# Wazuh SOC  Home Lab
 
 A hands-on Security Operations Center (SOC) home lab built on Wazuh SIEM, covering the full analyst workflow — from infrastructure deployment and endpoint monitoring through attack simulation, alert investigation, detection engineering, and professional incident documentation.
 
